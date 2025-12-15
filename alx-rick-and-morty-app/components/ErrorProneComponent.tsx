@@ -1,5 +1,7 @@
-const ErrorProneComponent: React.FC = () => {
-  throw new Error('This is a test error!');
-};
+import React from "react"
 
-export default ErrorProneComponent;
+const ErrorProneComponent: React.FC = () => {
+  throw new Error("This is a test error!")
+}
+
+export default ErrorProneComponent
