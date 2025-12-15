@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.0.8",
+    "@sentry/nextjs": "^10.30.0",
+    "@sentry/react": "^10.30.0",
+    "next": "^16.0.10",
     "react": "19.2.1",
     "react-dom": "19.2.1"
   },
